@@ -1,8 +1,6 @@
 # Private Markets Asset Classes
 
-This repository provides a neutral, structured reference for private-market asset classes as used by institutional allocators, fund managers, and data systems.
-
-It reflects commonly observed classifications across investment mandates, fund disclosures, and public institutional reporting.
+This repository provides a neutral reference of private market asset classes, with selected adjacent strategies included for allocator context.
 
 ---
 
