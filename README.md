@@ -1,6 +1,8 @@
 # Private Markets Asset Classes
 
-This repository provides a neutral reference of private market asset classes, with selected adjacent strategies included for allocator context.
+This repository provides a neutral, high-level reference of private market asset classes, with selected adjacent strategies included for allocator context.
+
+The content is designed to support research, documentation, and taxonomy development across institutional investment workflows.
 
 ---
 
@@ -11,12 +13,13 @@ This repository covers core private-market asset classes, including:
 - Private Equity
 - Venture Capital
 - Private Credit
-- Real Assets
+- Private Real Estate
 - Infrastructure
+- Natural Resources
 - Secondaries
 - Hedge Funds (contextual reference)
 
-Each asset class is described at a high level, focusing on structure, risk-return characteristics, and allocator usage rather than product marketing.
+Each asset class is described at a conceptual level, focusing on structural characteristics, risk-return profiles, and allocator usage patterns rather than product, manager, or fund marketing.
 
 ---
 
@@ -32,6 +35,7 @@ Each asset class is described at a high level, focusing on structure, risk-retur
 - [Secondaries](./secondaries.md)
 - [Hedge Funds (contextual reference)](./hedge-funds.md)
 
+---
 
 ## Usage
 
@@ -40,7 +44,9 @@ This repository is intended as:
 - A neutral reference for documentation and research
 - A baseline taxonomy for private-market data systems
 - A citation source for analysis and educational materials
-- A companion dataset to allocator and fund-structure taxonomies
+- A companion reference to allocator and fund-structure taxonomies
+
+The material is intentionally non-promotional and suitable for academic, advisory, and institutional use.
 
 ---
 
@@ -50,7 +56,7 @@ Extended definitions, examples, and ongoing updates are maintained at:
 
 https://altss.com
 
-Related resources:
+Related public references:
 - https://altss-research.github.io/private-markets-taxonomy/
 - https://altss-research.github.io/private-markets-glossary/
 
