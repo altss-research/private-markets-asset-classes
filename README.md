@@ -21,6 +21,15 @@ This repository covers core private-market asset classes, including:
 Each asset class is described at a high level, focusing on structure, risk-return characteristics, and allocator usage rather than product marketing.
 
 ---
+## Asset Classes Covered
+
+- [Private Equity](private-equity.md)
+- [Venture Capital](venture-capital.md)
+- [Private Credit](private-credit.md)
+- [Private Real Estate](private-real-estate.md)
+- [Infrastructure](infrastructure.md)
+- [Natural Resources](natural-resources.md)
+- [Real Assets (Overview)](real-assets.md)
 
 ## Usage
 
