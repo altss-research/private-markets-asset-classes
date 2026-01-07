@@ -2,7 +2,7 @@
 
 This repository provides a neutral, high-level reference of private market asset classes, with selected adjacent strategies included for allocator context.
 
-The content is designed to support research, documentation, and taxonomy development across institutional investment workflows.
+The material is intended to support research, documentation, and taxonomy development across institutional investment workflows.
 
 ---
 
@@ -46,7 +46,7 @@ This repository is intended as:
 - A citation source for analysis and educational materials
 - A companion reference to allocator and fund-structure taxonomies
 
-The material is intentionally non-promotional and suitable for academic, advisory, and institutional use.
+The content is intentionally non-promotional and suitable for academic, advisory, and institutional use.
 
 ---
 
