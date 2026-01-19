@@ -4,7 +4,13 @@ This repository provides a neutral, high-level reference of private market asset
 
 The material is intended to support research, documentation, and taxonomy development across institutional investment workflows.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18178933.svg)](https://doi.org/10.5281/zenodo.18178933)
+## Cite this
+
+If you reference this work in research, documentation, or educational material, please cite the DOI:
+
+https://doi.org/10.5281/zenodo.18178933
+
+A machine-readable citation is available in `CITATION.cff`.
 
 ---
 
