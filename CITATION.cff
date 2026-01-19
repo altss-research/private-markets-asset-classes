@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-title: Private Markets Asset Classes
+title: "Private Markets Asset Classes"
+type: dataset
 authors:
-  - name: Altss Research
-abstract: Neutral reference of private-market asset classes, with selected adjacent strategies included for allocator context.
-url: https://altss.com
-repository-code: https://github.com/altss-research/private-markets-asset-classes
-license: MIT
+  - name: "Altss Research"
+abstract: "Neutral reference of private-market asset classes, with selected adjacent strategies included for allocator context."
+url: "https://altss.com"
+repository-code: "https://github.com/altss-research/private-markets-asset-classes"
+license: "MIT"
 keywords:
   - private markets
   - asset classes
@@ -14,3 +15,6 @@ keywords:
   - real assets
   - infrastructure
   - secondaries
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18178933
