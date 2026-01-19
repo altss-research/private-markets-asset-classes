@@ -4,9 +4,11 @@ This repository provides a neutral, high-level reference of private market asset
 
 The material is intended to support research, documentation, and taxonomy development across institutional investment workflows.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18178933.svg)](https://doi.org/10.5281/zenodo.18178933)
+
 ## Cite this
 
-If you reference this work in research, documentation, or educational material, please cite the DOI:
+If you reference this work in research, documentation, or educational material, please cite:
 
 https://doi.org/10.5281/zenodo.18178933
 
@@ -65,11 +67,10 @@ Canonical updates and related material:
 - https://altss-research.github.io/private-markets-taxonomy/
 - https://altss-research.github.io/private-markets-glossary/
 
-
 ---
 
 ## License
 
 MIT
 
-_Last updated: January 2026_
+_Last updated: 2026-01-19_
