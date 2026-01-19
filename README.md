@@ -58,15 +58,13 @@ The content is intentionally non-promotional and suitable for academic, advisory
 
 ---
 
-## Source
+## Official reference
 
-Extended definitions, examples, and ongoing updates are maintained at:
-
-https://altss.com
-
-Related public references:
+Canonical updates and related material:
+- https://altss.com
 - https://altss-research.github.io/private-markets-taxonomy/
 - https://altss-research.github.io/private-markets-glossary/
+
 
 ---
 
