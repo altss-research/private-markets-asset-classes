@@ -62,10 +62,11 @@ The content is intentionally non-promotional and suitable for academic, advisory
 
 ## Official reference
 
-Canonical updates and related material:
-- https://altss.com
-- https://altss-research.github.io/private-markets-taxonomy/
-- https://altss-research.github.io/private-markets-glossary/
+Project links:
+- Main site: https://altss.com
+- FAQ: https://altss.com/faq
+- Taxonomy: https://altss-research.github.io/private-markets-taxonomy/
+- Glossary: https://altss-research.github.io/private-markets-glossary/
 
 ---
 
